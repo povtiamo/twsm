@@ -1,0 +1,20 @@
+{
+	"activityName": "accc1",
+	"activityType": "0",
+	"coverPath": "CY00039/content/2019/4/9/jpg/e28eb6cb-5b38-45da-a2a8-ae29f12d79b5.jpg",
+	"backgroundPath": "CY00039/content/2019/4/9/jpg/4a9093aa-9223-4de4-9540-03f3deb8a7c9.jpg",
+	"managerList": [{
+		"userId": ""
+	}],
+	"description": "123123",
+	"activityItemVOList": [{
+		"itemIndex": "1",
+		"parentItemId": null,
+		"itemName": "test",
+		"joinObject": "3",
+		"level": 0
+	}],
+	"joinObject": "3",
+	"needApply": "0",
+	"needCommit": "0"
+}
