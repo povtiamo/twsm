@@ -1,4 +1,8 @@
 # twsm
-These all folders are using by Web_Auto_Test by python.
+支持接口自动化测试、大数据等测试需求
 
-Do not take out config_files.
+# 环境
+(基于Python的requests库支撑，运行需要安装该第三方库)
+```bash
+pip install requests
+```
