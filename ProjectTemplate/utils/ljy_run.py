@@ -15,10 +15,10 @@ import threading
 import json
 import random
 
-try:
-	os.chdir(os.path.dirname(sys.argv[0]))
-except:
-	pass
+# try:
+# 	os.chdir(os.path.dirname(sys.argv[0]))
+# except:
+# 	pass
 
 class common():
 	def __init__(self,runtimes,username=None,passwd=None,start_time=None):

@@ -18,10 +18,13 @@ import random
 class getconf():
 	def __init__(self):
 		self.conf = configparser.ConfigParser()
+		self._path=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 		self.conf.read(self.get_config_path(),encoding="utf-8-sig")
+		
 
 	def get_config_path(self):
-		_file_path=os.path.dirname(sys.argv[0])+"\\config\\conf.ini"
+		# _file_path=os.path.dirname(sys.argv[0])+"\\config\\conf.ini"
+		_file_path=self._path+"\\config\\conf.ini"
 		if os.path.exists(_file_path):
 			return _file_path
 		else:
@@ -30,7 +33,8 @@ class getconf():
 			sys.exit()
 
 	def get_data_path(self):
-		_file_path=os.path.dirname(sys.argv[0])+"\\data\\"
+		# _file_path=os.path.dirname(sys.argv[0])+"\\data\\"
+		_file_path=self._path+"\\data\\"
 		if os.path.exists(_file_path):
 			return _file_path
 		else:
@@ -39,7 +43,8 @@ class getconf():
 			sys.exit()
 
 	def get_resource_path(self):
-		_file_path=os.path.dirname(sys.argv[0])+"\\resource\\"
+		# _file_path=os.path.dirname(sys.argv[0])+"\\resource\\"
+		_file_path=self._path+"\\resource\\"
 		if os.path.exists(_file_path):
 			return _file_path
 		else:
@@ -84,6 +89,7 @@ class getconf():
 		full_path=os.path.join(image_path,image)
 		return full_path
 
+
 	def getuserlist(self):
 		conf=self.get_config()
 		userlist=[]
@@ -105,7 +111,7 @@ class getconf():
 	def getstudentIdlist(self):
 		conf=self.get_config()
 		userlist=[]
-		userlist_file=self.get_data_path()++conf["studentidfile"]
+		userlist_file=self.get_data_path()+conf["studentidfile"]
 		if os.path.exists(userlist_file):
 			with open(userlist_file,"rb") as f:
 				#replace替换文档中的换行
