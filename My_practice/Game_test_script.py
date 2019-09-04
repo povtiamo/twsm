@@ -1078,34 +1078,35 @@ def main():
         t.start()
 
 
-try:
-    if __name__ == '__main__':
+
+if __name__ == '__main__':
+    try:
         main()
 
-# def restart():
-# 	os.execl("/usr/bin/python","python","./client.py")
+    # def restart():
+    # 	os.execl("/usr/bin/python","python","./client.py")
 
-except KeyboardInterrupt:
-    print "key break!"
-    __login.c.__del__
-    pass
+    except KeyboardInterrupt:
+        print "key break!"
+        __login.c.__del__
+        pass
 
-except Exception:
-    print "debug:"
-    traceback.print_exc()
+    except Exception:
+        print "debug:"
+        traceback.print_exc()
 
-    if not os.path.exists("./Logs"):
-        os.mkdir("./Logs")
-    logname = time.strftime('%Y_%m_%d_%H%M', time.localtime(time.time()))+'.log'
-    log_path = './Logs/'
-    logfile = log_path + logname
-    #make a logger module
-    logging.basicConfig(filename=logfile, filemode="w", level=logging.DEBUG)
-    logging.error("wrong info",exc_info=True)
+        if not os.path.exists("./Logs"):
+            os.mkdir("./Logs")
+        logname = time.strftime('%Y_%m_%d_%H%M', time.localtime(time.time()))+'.log'
+        log_path = './Logs/'
+        logfile = log_path + logname
+        #make a logger module
+        logging.basicConfig(filename=logfile, filemode="w", level=logging.DEBUG)
+        logging.error("wrong info",exc_info=True)
 
-finally:
-    print "program Finish!"
-    sys.exit()
-    # restart()
+    finally:
+        print "program Finish!"
+        sys.exit()
+        # restart()
 
 
