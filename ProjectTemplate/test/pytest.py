@@ -2,6 +2,7 @@
 
 import os,sys,traceback
 from time import time
+
 path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, path)
 try:
@@ -31,6 +32,8 @@ def start_test():
         print("Step 4. ",img_file)
     else:
         print("%s not found!"%(img_file))
+    # r=ljy_run.common(0)
+    # r.main()
 
 if __name__ == "__main__":
     try:
