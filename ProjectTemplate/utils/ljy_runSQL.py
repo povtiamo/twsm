@@ -35,7 +35,7 @@ class runSQL(pgsql):
         with open(saveFile,"a",encoding='utf-8') as f:
             for i in data:
                 f.write(str(i))
-        print("Created>%s!"%(saveFile))
+        # print("Created>%s!"%(saveFile))
 
     def get_result(self,sqlstr_list=None):
         result_list=[]
@@ -117,11 +117,26 @@ class runSQL(pgsql):
             return e
         return 0
 
+    def app_d_xs_xsgsxx(self):
+        sqlstr_list=self.SQL_app_d_xs_xsgsxx()
+        funcname=sys._getframe().f_code.co_name
+        print("start %s..."%(funcname))
+        try:
+            self.get_result_withThread(sqlstr_list,self.get_saveFile(funcname))
+            # self.logg(data=result_list,funcname=funcname)
+        except Exception as e:
+            return e
+        return 0
+
     def DBquit(self):
         self.conn.DBquit()
 
     def main(self):
-        if self.app_d_js_jbxxdbtj() == 0:
+        # if self.app_d_js_jbxxdbtj() == 0:
+        #     print("pass\n")
+        # else:
+        #     print(-1)
+        if self.app_d_xs_xsgsxx() == 0:
             print("pass\n")
         else:
             print(-1)

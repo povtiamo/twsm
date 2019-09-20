@@ -62,11 +62,14 @@ class ConnectDB(object):
 		if sqlstr=="" or sqlstr is None:
 			sqlstr=self.sqlstr
 		result=self.excute_sql(sqlstr)
-		with open(saveFile,"a",encoding='utf-8') as f:
-			nowtime=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-			result="["+nowtime+"]: "+sqlstr+"\n"+str(result)+"\n-----------------\n"
-			# print(result)
-			f.write(str(result))
+		try:
+			with open(saveFile,"a",encoding='utf-8') as f:
+				nowtime=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+				result="["+nowtime+"]: "+sqlstr+"\n"+str(result)+"\n-----------------\n"
+				# print(result)
+				f.write(str(result))
+		except Exception as e:
+			print("Logfile IO Info:\n%s"%(e))
 
 	def excute_sql(self,sqlstr=None):
 		cursor = self.conn.cursor()
@@ -78,6 +81,7 @@ class ConnectDB(object):
 			# print("execute:",count)
 		except Exception as e:
 			self.conn.rollback()
+			print("SQL rollback done!")
 			self.conn.close()
 			raise Exception("SQLstr run False！:\n'%s'\n%s"%(sqlstr,e))
 		try:
