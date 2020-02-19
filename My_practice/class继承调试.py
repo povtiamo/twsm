@@ -3,16 +3,18 @@ class t1(object):
         # outfunc.__init__(self,a,b)
         self.a=a+1
         self.b=b+1
+        self.c=999
         self.__inside()
 
     def output(self):
-        print("t1.a:%s,\nt1.b:%s\n"%(self.a,self.b))
+        print("t1.a:%s,\nt1.b:%s\nt1.c:%s\n"%(self.a,self.b,self.c))
 
     def __inside(self):
         print("you can't take me outside,*%s*<-come from"%(__name__))
 
 class t2(t1):
     def __init__(self,a,b,c):
+        # self.c=c
         t1.__init__(self,a,b)
         '''
         super() 函数是用于调用父类(超类)的一个方法。

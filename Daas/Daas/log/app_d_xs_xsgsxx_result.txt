@@ -1,0 +1,297 @@
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('1','TWSM001','咕哒子1','18','女','101','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0001','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('2','TWSM002','咕哒子2','18','女','102','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0002','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('3','TWSM003','咕哒子3','18','女','103','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0003','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('4','TWSM004','咕哒子4','18','女','104','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0004','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('5','TWSM005','咕哒子5','18','女','105','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0005','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('6','TWSM006','咕哒子6','18','女','106','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0006','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('7','TWSM007','咕哒子7','18','女','107','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0007','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('8','TWSM008','咕哒子8','18','女','108','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0008','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('9','TWSM009','咕哒子9','18','女','109','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER0009','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('10','TWSM0010','咕哒子10','18','女','1010','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00010','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('11','TWSM0011','咕哒子11','18','女','1011','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00011','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('12','TWSM0012','咕哒子12','18','女','1012','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00012','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('13','TWSM0013','咕哒子13','18','女','1013','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00013','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('14','TWSM0014','咕哒子14','18','女','1014','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00014','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('15','TWSM0015','咕哒子15','18','女','1015','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00015','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('16','TWSM0016','咕哒子16','18','女','1016','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00016','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('17','TWSM0017','咕哒子17','18','女','1017','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00017','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('18','TWSM0018','咕哒子18','18','女','1018','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00018','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('19','TWSM0019','咕哒子19','18','女','1019','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00019','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('20','TWSM0020','咕哒子20','18','女','1020','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00020','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('21','TWSM0021','咕哒子21','18','女','1021','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00021','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('22','TWSM0022','咕哒子22','18','女','1022','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00022','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('24','TWSM0024','咕哒子24','18','女','1024','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00024','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('25','TWSM0025','咕哒子25','18','女','1025','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00025','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('26','TWSM0026','咕哒子26','18','女','1026','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00026','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('27','TWSM0027','咕哒子27','18','女','1027','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00027','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('28','TWSM0028','咕哒子28','18','女','1028','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00028','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('29','TWSM0029','咕哒子29','18','女','1029','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00029','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('30','TWSM0030','咕哒子30','18','女','1030','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00030','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('31','TWSM0031','咕哒子31','18','女','1031','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00031','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('33','TWSM0033','咕哒子33','18','女','1033','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00033','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('32','TWSM0032','咕哒子32','18','女','1032','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00032','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('34','TWSM0034','咕哒子34','18','女','1034','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00034','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('35','TWSM0035','咕哒子35','18','女','1035','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00035','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('36','TWSM0036','咕哒子36','18','女','1036','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00036','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('37','TWSM0037','咕哒子37','18','女','1037','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00037','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('39','TWSM0039','咕哒子39','18','女','1039','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00039','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('38','TWSM0038','咕哒子38','18','女','1038','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00038','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('40','TWSM0040','咕哒子40','18','女','1040','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00040','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('41','TWSM0041','咕哒子41','18','女','1041','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00041','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('42','TWSM0042','咕哒子42','18','女','1042','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00042','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('43','TWSM0043','咕哒子43','18','女','1043','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00043','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('44','TWSM0044','咕哒子44','18','女','1044','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00044','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('45','TWSM0045','咕哒子45','18','女','1045','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00045','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('46','TWSM0046','咕哒子46','18','女','1046','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00046','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('47','TWSM0047','咕哒子47','18','女','1047','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00047','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('48','TWSM0048','咕哒子48','18','女','1048','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00048','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('49','TWSM0049','咕哒子49','18','女','1049','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00049','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('50','TWSM0050','咕哒子50','18','女','1050','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00050','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('51','TWSM0051','咕哒子51','18','女','1051','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00051','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('52','TWSM0052','咕哒子52','18','女','1052','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00052','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('53','TWSM0053','咕哒子53','18','女','1053','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00053','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('54','TWSM0054','咕哒子54','18','女','1054','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00054','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('55','TWSM0055','咕哒子55','18','女','1055','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00055','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('56','TWSM0056','咕哒子56','18','女','1056','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00056','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('57','TWSM0057','咕哒子57','18','女','1057','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00057','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('58','TWSM0058','咕哒子58','18','女','1058','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00058','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('59','TWSM0059','咕哒子59','18','女','1059','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00059','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('60','TWSM0060','咕哒子60','18','女','1060','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00060','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('61','TWSM0061','咕哒子61','18','女','1061','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00061','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('63','TWSM0063','咕哒子63','18','女','1063','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00063','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('62','TWSM0062','咕哒子62','18','女','1062','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00062','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('64','TWSM0064','咕哒子64','18','女','1064','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00064','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('65','TWSM0065','咕哒子65','18','女','1065','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00065','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('66','TWSM0066','咕哒子66','18','女','1066','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00066','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('68','TWSM0068','咕哒子68','18','女','1068','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00068','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('67','TWSM0067','咕哒子67','18','女','1067','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00067','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('69','TWSM0069','咕哒子69','18','女','1069','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00069','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('70','TWSM0070','咕哒子70','18','女','1070','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00070','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('71','TWSM0071','咕哒子71','18','女','1071','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00071','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('72','TWSM0072','咕哒子72','18','女','1072','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00072','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('73','TWSM0073','咕哒子73','18','女','1073','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00073','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('74','TWSM0074','咕哒子74','18','女','1074','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00074','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('75','TWSM0075','咕哒子75','18','女','1075','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00075','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('76','TWSM0076','咕哒子76','18','女','1076','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00076','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('77','TWSM0077','咕哒子77','18','女','1077','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00077','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('78','TWSM0078','咕哒子78','18','女','1078','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00078','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('79','TWSM0079','咕哒子79','18','女','1079','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00079','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('80','TWSM0080','咕哒子80','18','女','1080','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00080','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('81','TWSM0081','咕哒子81','18','女','1081','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00081','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('82','TWSM0082','咕哒子82','18','女','1082','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00082','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('83','TWSM0083','咕哒子83','18','女','1083','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00083','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('84','TWSM0084','咕哒子84','18','女','1084','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00084','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('85','TWSM0085','咕哒子85','18','女','1085','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00085','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('86','TWSM0086','咕哒子86','18','女','1086','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00086','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('87','TWSM0087','咕哒子87','18','女','1087','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00087','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('88','TWSM0088','咕哒子88','18','女','1088','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00088','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('89','TWSM0089','咕哒子89','18','女','1089','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00089','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('90','TWSM0090','咕哒子90','18','女','1090','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00090','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('91','TWSM0091','咕哒子91','18','女','1091','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00091','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('92','TWSM0092','咕哒子92','18','女','1092','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00092','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('93','TWSM0093','咕哒子93','18','女','1093','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00093','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('94','TWSM0094','咕哒子94','18','女','1094','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00094','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('95','TWSM0095','咕哒子95','18','女','1095','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00095','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('96','TWSM0096','咕哒子96','18','女','1096','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00096','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('97','TWSM0097','咕哒子97','18','女','1097','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00097','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('98','TWSM0098','咕哒子98','18','女','1098','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00098','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('99','TWSM0099','咕哒子99','18','女','1099','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER00099','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
+[2019-09-17 17:43:27]: INSERT INTO app_d_xs_xsgsxx(id,xsid,xm,nl,xb,xdid,xdmc,xxmc,xxid,rxsj,njid,njmc,bjmc,bjid,xszt,xjh,sfyx,xzqym,xzqhmc) VALUES('100','TWSM00100','咕哒子100','18','女','10100','高中','一中','TWSMYZMS0001','2019-09-17 16:50:41','gz001','高一','高中001','class001','在籍','XJNUMBER000100','有效','YHQ001','雨花区');
+1 rows changed
+-----------------
