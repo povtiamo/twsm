@@ -18,7 +18,7 @@ matplotlib==3.1.1
 mccabe==0.6.1
 more-itertools==7.1.0
 Naked==0.1.31
-numpy==1.17.2
+numpy==1.22.0
 packaging==19.0
 Pillow==6.0.0
 pluggy==0.12.0
